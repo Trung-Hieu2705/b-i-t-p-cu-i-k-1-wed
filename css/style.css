@@ -11,8 +11,8 @@
   --muted: #5a6376;
   --cell: 28px;
   --gutter: clamp(2.75rem, 7vw, 5.5rem);
-  --body: "Be Vietnam Pro", system-ui, "Segoe UI", sans-serif;
-  --hand: "Patrick Hand", "Segoe Print", "Comic Sans MS", cursive;
+    --body: system-ui, "Segoe UI", sans-serif;
+  --hand: "Segoe Print", "Comic Sans MS", cursive;
 }
 
 * { box-sizing: border-box; }
