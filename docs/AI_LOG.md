@@ -8,7 +8,7 @@
 
 ## 1. Mục đích sử dụng AI
 
-Trong quá trình làm website giới thiệu bản thân, em sử dụng ChatGPT để tham khảo cách viết và chỉnh sửa HTML, CSS. Mục đích chính là hiểu rõ hơn cách xây dựng bố cục trang web, trình bày thông tin cá nhân và xử lý một số lỗi về giao diện.
+Trong quá trình làm website giới thiệu bản thân, em sử dụng AI để tham khảo cách viết và chỉnh sửa HTML, CSS. Mục đích chính là hiểu rõ hơn cách xây dựng bố cục trang web, trình bày thông tin cá nhân và xử lý một số lỗi về giao diện.
 
 ## 2. Nội dung đã sử dụng AI hỗ trợ
 
